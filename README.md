@@ -23,7 +23,7 @@
 ### （10/20）第2回: 公的データの加工2
 
 1. **第3回講義資料**
-   - [スライドPDF](https://github.com/sis-programming3-2020/materials/03/2020prog3_week3.pdf)
+   - [スライドPDF](/materials/03/2020prog3_week03.pdf)
 - ノートブックの提出締切: **10月23日（金）23:59**
 
 ### （10/13）第2回: 公的データの加工
