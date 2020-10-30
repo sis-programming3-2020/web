@@ -32,6 +32,9 @@
    - [スライドPDF](/materials/03/2020prog3_week03.pdf)
 - ノートブックの提出締切: **10月23日（金）23:59**
 
+2. 第3回演習資料の回答
+   - [ZIP](materials/03/week03_JBxxxxxx_answer.ipynb.zip) ノートブックをzip圧縮したもの
+
 ### （10/13）第2回: 公的データの加工
 
 1. **第2回講義資料**
