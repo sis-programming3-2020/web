@@ -30,7 +30,7 @@
    - [スライドPDF](/materials/14/2020prog3_week14.pdf)
    - ノートブックの提出締切: **1月15日（金）23:59**
 2. 第14回演習資料の解答
- - [ZIP](materials/13/week14_answer.zip) ノートブックをzip圧縮したもの
+ - [ZIP](materials/14/week14_answer.zip) ノートブックをzip圧縮したもの
 
 ### （1/3）第13回: ウェブ・テキストデータ処理2: WebAPIの活用
 1. **第13回講義資料**
